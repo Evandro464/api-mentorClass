@@ -2,6 +2,6 @@
   "mentores": [],
   "mentorias": [],
   "turmas": [],
-  "semana": [],
+  "semana": ["Segunda-feira","Terça-feira", "Quarta-feira"],
   "alunos":[]
 }
